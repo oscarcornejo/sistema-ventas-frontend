@@ -1,0 +1,25 @@
+.boxHeaderCard {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.boxTitleSeccion {
+    margin-bottom: 1rem;
+}
+
+.titleSeccion {
+    text-transform: uppercase;
+    font-size: 1.23rem;
+    color: #0e0b20;
+}
+
+.boxTituloCard {
+    text-transform: uppercase;
+    font-size: 1.2rem;
+}
+
+.boxSubTituloCard {
+    color: #c0bdd0;
+    font-size: 0.8rem;
+}
